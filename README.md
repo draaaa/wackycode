@@ -2,5 +2,4 @@
 
 unfortunately, cyrus took down cyadmin :((((((((((((((((((((((((((((((((((((((
 
-fortuantely, hes retarded 
-:3
+fortuantely, hes retarded and made it open source :3
