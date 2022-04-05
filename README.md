@@ -1,5 +1,5 @@
 # wackycode
 
-unfortunately, cyrus took down cyadmin :((((((((((((((((((((((((((((((((((((((
+archived scripts (in case devs want to try to get rid of them)
 
-fortuantely, hes retarded and made it open source :3
+:3
