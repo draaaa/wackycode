@@ -3300,4 +3300,4 @@ end))
 -- [[ End ]] --
 
 notif("Cyrus' Streets admin","took " .. string.format("%.6f",tick()-Tick) .. " seconds",10,"rbxassetid://2474242690")
-notif("reuploaded version","eljay is a black bitch",10,nil)
+notif("reuploaded version","cyrus successfully injected",10,nil)
