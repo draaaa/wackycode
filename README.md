@@ -1,5 +1,5 @@
 # wackycode
 
-archived scripts (in case devs want to try to get rid of them)
+archived scripts (in case devs remove them)
 
 :3
